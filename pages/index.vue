@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-const { data, status, error, refresh, clear } = await useFetch('https://api.escuelajs.co/api/v1/products')
+// import Hero from '../components/Hero/index.vue'
 </script>
 
 <style scoped></style>
